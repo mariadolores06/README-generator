@@ -4,7 +4,7 @@
 
 ## Description
 
-The README Generator is a command-line application that prompts users for information about their project and generates a professional README. 
+The README Generator is a command-line application that prompts users for information about their project and generates a professional README. A README file generally follows the same set up, so this application should make the process a lot smoother and faster. This allows developers to focus on their actual code. 
 
 ## Table of Contents
 
