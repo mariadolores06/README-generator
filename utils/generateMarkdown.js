@@ -86,8 +86,8 @@ function generateMarkdown(data) {
 
   ## Questions
 
-  Have questions about this project? Please email me at (mailto:${data.email}).
-  Please visit my [Github Profile](https://github.com/${data.github}).`;
+  Have questions about this project? [Please email me](mailto:${data.email}).
+  Please visit my [Github Profile](https://github.com/${data.Github}).`;
 }
 
 module.exports = generateMarkdown;

@@ -1,10 +1,10 @@
-# Coding Quiz 
+# Project Test
 
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 
   ## Description
 
-  The Coding Quiz will ask you a series of questions to test your coding knowledge. 
+  This is a DEMO
 
   ## Table of Contents
 
@@ -17,22 +17,22 @@
   
   ## Installation
 
-  No installation required. Follow the link provided
+  N/A
 
   ## Usage
 
-  The Coding Quiz is to be used for studying before interviews
+  run node index.js
   
 
   ## Contributing
 
-  If you are interested in contributing please email me 
+  N/A
 
   ## Tests
 
-  No tests available at this time 
+  N/A
 
   ## Questions
 
-  Have questions about this project? [Please email me.](mailto:maria@gmail.com)
-  Please visit my [Github Profile](https://github.com/${data.Github})
+  Have questions about this project? [Please email me](mailto:maria@gmail.com).
+  Please visit my [Github Profile](https://github.com/mariadolores06).
