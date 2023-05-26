@@ -1,3 +1,42 @@
-# Professional README Generator Starter Code
+# README-Generator
+  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+## Description
+
+The README Generator is a command-line application that prompts users for information about their project and generates a professional README. 
+
+## Table of Contents
+
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Contributing](#contributing)
+  * [Tests](#tests)
+  * [Licenses](#licenses)
+  * [Questions](#questions)
+  
+## Installation
+
+1. Install Node.js
+2. Copy Link: Hit the "Code" button within this GitHub repo to copy link
+3. Clone: Within GitBash, use the command "git clone paste link here"
+4. Run "npm init" to create package.json
+5. Run "npm i inquirer@8.2.4" to instlal the inquirer package 
+5. To start the application run "node index.js"
+
+## Usage
+
+The README Generator functions as a command-line application. Once the necessary software is installed and the node packages are initialzied, you can get started! Answer each question and a README file will be generated! 
+
+## Contributing
+
+If you are interested in contributing or have any suggestions, please fork the repo and create a pull request.
+
+## Tests
+
+No tests available at this time 
+
+## Questions
+
+Have questions about this project? Please [email me.](mailto:mrodriguez.psychology@gmail.com)
+Please visit my [Github Profile](https://github.com/mariadolores06)
