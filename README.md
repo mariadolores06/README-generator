@@ -12,7 +12,6 @@ The README Generator is a command-line application that prompts users for inform
   * [Usage](#usage)
   * [Contributing](#contributing)
   * [Tests](#tests)
-  * [Licenses](#licenses)
   * [Questions](#questions)
   
 ## Installation
