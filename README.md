@@ -28,7 +28,7 @@ The README Generator is a command-line application that prompts users for inform
 
 The README Generator functions as a command-line application. Once the necessary software is installed and the node packages are initialzied, you can get started! Answer each question and a README file will be generated! 
 
-Preview:
+Preview: https://github.com/mariadolores06/readme-generator/blob/main/generateREADME.md
 
 Demo:
 
