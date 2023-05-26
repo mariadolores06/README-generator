@@ -84,7 +84,7 @@ function init() {
   inquirer
     .prompt(questions)
     .then((data) => {
-      const fileName = "generateREADME";
+      const fileName = "generateREADME.md";
       writeToFile(fileName, data)
     })
 }   
