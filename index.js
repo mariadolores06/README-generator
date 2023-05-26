@@ -58,7 +58,7 @@ const questions = [
   {
     type: 'input',
     name: 'Github',
-    message: 'What is your Github Uusername?',
+    message: 'What is your Github username?',
     
   },
   {
@@ -71,7 +71,7 @@ const questions = [
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
-  const readMe = utils.generateMarkdown(data)
+  const readMe = generateMarkdown(data)
 
   fs.writeFile(fileName, readMe, (err) => 
   err 
@@ -82,7 +82,7 @@ function writeToFile(fileName, data) {
 // TODO: Create a function to initialize app
 function init() {
   inquirer
-    .prompt
+    .prompt(questions)
     .then((data) => {
       const fileName = "generateREADME";
       writeToFile(fileName, data)
