@@ -1,10 +1,10 @@
-# Project Test
+# Test Project
 
-  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+  [![License: GPL v2](https://img.shields.io/badge/License-GPL_v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 
   ## Description
 
-  This is a DEMO
+  Demo Project
 
   ## Table of Contents
 
@@ -17,11 +17,11 @@
   
   ## Installation
 
-  N/A
+  run node index.js
 
   ## Usage
 
-  run node index.js
+  Create a README.md
   
 
   ## Contributing
@@ -34,5 +34,5 @@
 
   ## Questions
 
-  Have questions about this project? [Please email me](mailto:maria@gmail.com).
+  Have questions about this project? [Please email me](mailto:maria.rodriguez@northwestern.edu).
   Please visit my [Github Profile](https://github.com/mariadolores06).
